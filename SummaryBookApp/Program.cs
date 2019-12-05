@@ -21,7 +21,7 @@ namespace SummaryBookApp
             SqlConnection connetion = new SqlConnection(connectionString);
             connetion.Open();
             // SelectYear(connectionString);
-           // SelectTop10(connectionString);
+            // SelectTop10(connectionString);
             SelectMaxPrice(connectionString);
 
             Console.ReadLine();
@@ -74,7 +74,7 @@ namespace SummaryBookApp
 
         }
 
-        private static void SelectMaxPrice(string connectionString)
+        private static void SelectMaxPrice(string connectionString) ////NU STIU
         {
             // string query = "select  Title ,Year from Book where Price = (select MAX(Price) as MaxPrice from Book);";
             string query = "select Title,Year from Book";
