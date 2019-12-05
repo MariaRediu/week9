@@ -110,5 +110,54 @@ namespace CrudBookApp
 
             return result;
         }
+
+        public int SaveUpdate(Book book)
+        {
+            var queryCreate  = String.Format("insert into Book([Title],[PublisherId],[Year],[Price]) values('{0}',{1},{2},{3} ); "
+                                    + "Select @@Identity", book.Title, book.PublisherId, book.Year, book.Price);
+
+            var updateQuery = String.Format("Update Book SET Title='{0}', PublisherId = {1}, Year ={2}, Price = {3} Where BookId = {4};",
+                                     book.Title, book.PublisherId, book.Year, book.Price, book.BookId);
+            SqlConnection connection = new SqlConnection(connectionString);
+            connection.Open();
+            SqlCommand command = null;
+            if (book.BookId != 0)
+            {
+                command = new SqlCommand(updateQuery, connection);
+            }
+            else
+            {
+                command = new SqlCommand(queryCreate, connection);
+            }
+            int saveBookID = 0;
+            try
+            {
+                var commandExecute = command.ExecuteScalar();
+                if (commandExecute != null)
+                {
+                    saveBookID= Convert.ToInt32(commandExecute);
+                }
+                else
+                {
+                    saveBookID = book.BookId;
+
+                }
+
+            }
+            catch (SqlException e)
+            {
+
+                Console.WriteLine(e.Message); ;
+            }
+
+            command.Dispose();
+            connection.Close();
+            connection.Dispose();
+
+                return saveBookID;
+        }
     }
 }
+
+
+
