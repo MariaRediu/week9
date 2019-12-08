@@ -1,0 +1,6 @@
+C:\Users\Maria\source\repos\week9\SummaryBookApp\bin\Debug\SummaryBookApp.exe.config
+C:\Users\Maria\source\repos\week9\SummaryBookApp\bin\Debug\SummaryBookApp.exe
+C:\Users\Maria\source\repos\week9\SummaryBookApp\bin\Debug\SummaryBookApp.pdb
+C:\Users\Maria\source\repos\week9\SummaryBookApp\obj\Debug\SummaryBookApp.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\week9\SummaryBookApp\obj\Debug\SummaryBookApp.exe
+C:\Users\Maria\source\repos\week9\SummaryBookApp\obj\Debug\SummaryBookApp.pdb

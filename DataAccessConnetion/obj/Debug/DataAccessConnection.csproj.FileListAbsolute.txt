@@ -1,0 +1,5 @@
+C:\Users\Maria\source\repos\week9\DataAccessConnetion\bin\Debug\DataAccessConnetion.dll
+C:\Users\Maria\source\repos\week9\DataAccessConnetion\bin\Debug\DataAccessConnetion.pdb
+C:\Users\Maria\source\repos\week9\DataAccessConnetion\obj\Debug\DataAccessConnection.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\week9\DataAccessConnetion\obj\Debug\DataAccessConnetion.dll
+C:\Users\Maria\source\repos\week9\DataAccessConnetion\obj\Debug\DataAccessConnetion.pdb

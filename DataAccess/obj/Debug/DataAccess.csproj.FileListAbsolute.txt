@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\week9\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\week9\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Maria\source\repos\week9\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Maria\source\repos\week9\DataAccess\bin\Debug\DataAccessConnetion.dll
+C:\Users\Maria\source\repos\week9\DataAccess\bin\Debug\Models.dll
+C:\Users\Maria\source\repos\week9\DataAccess\bin\Debug\DataAccessConnetion.pdb
+C:\Users\Maria\source\repos\week9\DataAccess\bin\Debug\Models.pdb
+C:\Users\Maria\source\repos\week9\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Maria\source\repos\week9\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Maria\source\repos\week9\DataAccess\obj\Debug\DataAccess.pdb

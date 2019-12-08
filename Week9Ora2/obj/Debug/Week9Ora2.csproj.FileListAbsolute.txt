@@ -1,0 +1,16 @@
+C:\Users\Maria\source\repos\week9\Week9Ora2\obj\Debug\Week9Ora2.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\Week9Ora2.exe.config
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\Week9Ora2.exe
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\Week9Ora2.pdb
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\DataAccess.dll
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\DataAccessConnetion.dll
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\Models.dll
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\DataAccessConnetion.pdb
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\DataAccess.pdb
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\Models.pdb
+C:\Users\Maria\source\repos\week9\Week9Ora2\obj\Debug\Week9Ora2.csproj.CopyComplete
+C:\Users\Maria\source\repos\week9\Week9Ora2\obj\Debug\Week9Ora2.exe
+C:\Users\Maria\source\repos\week9\Week9Ora2\obj\Debug\Week9Ora2.pdb
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\Json.Net.dll
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maria\source\repos\week9\Week9Ora2\bin\Debug\Newtonsoft.Json.xml
